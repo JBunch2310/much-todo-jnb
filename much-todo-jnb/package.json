@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "antd": "^4.18.8",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "firebase": "^9.6.7",
+    "firebase-admin": "^10.0.2",
+    "react": "^17.0.2",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12"
+  }
+}
